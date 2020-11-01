@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/szinPiros"
+        android:title="Piros" />
+    <item
+        android:id="@+id/szinZold"
+        android:title="Zold" />
+    <item
+        android:id="@+id/szinSarga"
+        android:title="Sarga" />
+</menu>
